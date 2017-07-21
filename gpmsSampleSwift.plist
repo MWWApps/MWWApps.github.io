@@ -17,13 +17,13 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.kt.MOCA</string>
+                                <string>com.mww.gpms.sample</string>
                                 <key>bundle-version</key>
-                                <string>06.00.27</string>
+                                <string>1.0.0</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>CLiP2</string>
+                                <string>GPMS sample</string>
                         </dict>
                 </dict>
         </array>
